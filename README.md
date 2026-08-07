@@ -1,4 +1,5 @@
-# LittleBuilds-Automation-Toolkit
+![LittleBuilds Automation Toolkit](./assets/littlebuilds-automation-toolkit-banner.png)
+
 🛠️ Practical Python automation tools for IT, productivity, and digital organization.
 ---
 
